@@ -1,0 +1,30 @@
+.top {
+    font-family:  JetBrainsMono, kaiti;
+    height: auto;
+    width: 1550px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background-color: 	lightblue;
+    text-align: center;
+    opacity: 0.6;
+    position: absolute;
+    top: 5%;
+    left: 48.6%;
+    transform: translate(-50%,-50%);
+}
+
+.code {
+    color: white;
+    top: 60%;
+    left: 90%;
+    background-color: rgba(110, 183, 226, 0.658);
+    height: auto;
+    width: 300px;
+    text-align: center;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    margin: 0 auto;
+    font-family: JetBrainsMono, kaiti;
+}
