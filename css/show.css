@@ -1,0 +1,22 @@
+@keyframes coolshow {
+    0% {
+        opacity: 0;
+        border-radius: 5vh;
+        transform: translateY(5vw);
+        font-size: 0;
+    }
+}
+
+@keyframes showpng {
+    0% {
+        opacity: 0;
+        box-shadow: 0px 10px 10px white;
+        transform: translateY(50px);
+    }
+}
+
+@keyframes font1{
+    0%{
+        opacity: 0;
+    }
+ }
